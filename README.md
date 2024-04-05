@@ -5,3 +5,8 @@ This is a simple web page that simulates a light switch. The page allows users t
 Clone or download this repository to your local machine.
 Open the index.html file in a web browser.
 Click on the switch button to toggle the light on and off.
+
+<h1>File Structure:</h1>
+index.html: This is the main HTML file that defines the structure of the web page.<br>
+style.css: This file contains the CSS styles for styling the elements of the web page.<br>
+app.js: This JavaScript file contains the logic for controlling the behavior of the light switch.<br>
