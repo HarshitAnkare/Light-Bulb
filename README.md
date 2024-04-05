@@ -10,3 +10,9 @@ Click on the switch button to toggle the light on and off.
 index.html: This is the main HTML file that defines the structure of the web page.<br>
 style.css: This file contains the CSS styles for styling the elements of the web page.<br>
 app.js: This JavaScript file contains the logic for controlling the behavior of the light switch.<br>
+
+<h1>Features:</h1>
+Simple and intuitive user interface.<br>
+Realistic light bulb animation.<br>
+Clickable switch button to toggle the light on and off.<br>
+Optional audio effect associated with toggling the light switch.
